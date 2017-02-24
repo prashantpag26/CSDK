@@ -34,9 +34,9 @@ import com.adobe.creativesdk.foundation.auth.IAdobeAuthClientCredentials;
 public class MainApplication extends Application implements IAdobeAuthClientCredentials {
 
     /* Be sure to fill in the two strings below. */
-    private static final String CREATIVE_SDK_CLIENT_ID = "124beba9941d4f61ab63a3bfa28cfc7f";
-    private static final String CREATIVE_SDK_CLIENT_SECRET = "68b5a14f-5fa0-4062-921c-0351d3f4cdab";
-    private static final String CREATIVE_SDK_REDIRECT_URI = "ams+31f1a8c8e829ebaa49e888578556cc4d47baea6e://adobeid/124beba9941d4f61ab63a3bfa28cfc7f";
+    private static final String CREATIVE_SDK_CLIENT_ID = "";
+    private static final String CREATIVE_SDK_CLIENT_SECRET = "";
+    private static final String CREATIVE_SDK_REDIRECT_URI = "";
 //    private static final String[] CREATIVE_SDK_SCOPES = Keys.CSDK_SCOPES;
 
     @Override
